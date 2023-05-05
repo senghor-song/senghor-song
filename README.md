@@ -36,7 +36,7 @@
 
 <p align="center"><img src="https://img-blog.csdnimg.cn/f7384c88956d4378b72e47548e19c9f8.gif" alt="f7384c88956d4378b72e47548e19c9f8.gif" width="50" /></p><p align="center">
 <a href="https://www.cnblogs.com/MrSong97/">
-	<img src="https://img.shields.io/badge/博客园-%E6%8E%98%E9%87%91-blue.svg" alt="博客园" />
+	<img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%E5%9B%AD-%E5%8D%9A%E5%AE%A2%E5%9B%AD-green" alt="博客园" />
 </a>
 <a href="https://github.com/senghor-song">
 	<img src="https://img.shields.io/badge/GitHub-%E5%AD%98%E5%82%A8%E5%BA%93-black.svg" alt="GitHub" />
