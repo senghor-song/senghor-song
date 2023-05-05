@@ -19,7 +19,6 @@
 
 
 <p align="center">
-<img src = "https://komarev.com/ghpvc/?username=senghor-song&color=green&style=plastic">
 <img src="https://img.shields.io/badge/C-C-00599C?style=plastic&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-Java-00599C?style=plastic&logo=java"/>
 <img src="https://img.shields.io/badge/Spring-Spring-green?style=plastic&logo=Spring"/>
@@ -41,11 +40,12 @@
 
 
 <p align="center"><img src="https://img-blog.csdnimg.cn/f7384c88956d4378b72e47548e19c9f8.gif" alt="f7384c88956d4378b72e47548e19c9f8.gif" width="50" /></p><p align="center">
+<img src = "https://komarev.com/ghpvc/?username=senghor-song&color=green&style=plastic">
 <a href="https://www.cnblogs.com/MrSong97/">
-	<img src="https://img.shields.io/badge/博客园-博客园-green" alt="博客园" />
+	<img src="https://img.shields.io/badge/博客园-博客园-green?style=plastic" alt="博客园" />
 </a>
 <a href="https://github.com/senghor-song">
-	<img src="https://img.shields.io/badge/GitHub-%E5%AD%98%E5%82%A8%E5%BA%93-black.svg" alt="GitHub" />
+	<img src="https://img.shields.io/badge/GitHub-%E5%AD%98%E5%82%A8%E5%BA%93-black.svg?style=plastic" alt="GitHub" />
 </a>
 </p>
 
