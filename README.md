@@ -2,7 +2,6 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=senghor-song&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=senghor-song&theme=radical">
 </p>
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 <h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
