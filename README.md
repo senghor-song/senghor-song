@@ -29,20 +29,12 @@
 </p>
 
 
- 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=senghor-song&theme=redical">
-</p>
-
 <p align = "center">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=senghor-song&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
 
 
 <p align="center"><img src="https://img-blog.csdnimg.cn/f7384c88956d4378b72e47548e19c9f8.gif" alt="f7384c88956d4378b72e47548e19c9f8.gif" width="50" /></p><p align="center">
-<a href="https://app.yinxiang.com/fx/8aa8eb1b-7d45-4793-a160-b990d9da2e75">
-	<img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E6%B5%B7%E6%8B%A5-blueviolet" alt="%E5%85%AC%E4%BC%97%E5%8F%B7-%E6%B5%B7%E6%8B%A5-blueviolet" />
-</a>
 <a href="https://www.cnblogs.com/MrSong97/">
 	<img src="https://img.shields.io/badge/博客园-%E6%8E%98%E9%87%91-blue.svg" alt="博客园" />
 </a>
