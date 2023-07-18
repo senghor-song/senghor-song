@@ -48,5 +48,4 @@
 </a>
 </p>
 
-# 学习路线
-<a href="https://github.com/senghor-song/senghor-song/blob/master/README_study.md">学习路线</a>
+# <a href="https://github.com/senghor-song/senghor-song/blob/master/README_study.md">学习路线</a>
